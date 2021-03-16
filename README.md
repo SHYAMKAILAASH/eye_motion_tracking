@@ -1,7 +1,7 @@
 # eye_motion_tracking
 
 # Clone Repo
-**git clone **
+**git clone https://github.com/SHYAMKAILAASH/eye_motion_tracking.git**
 **cd eye_motion_tracking**
 
 # Install Dependencies
